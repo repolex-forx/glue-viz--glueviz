@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glueviz/commit/7b3845a736d94bf81a10c4ca8b893d601dfab381",
       "git:hexsha": "7b3845a736d94bf81a10c4ca8b893d601dfab381",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.4.0"
     },
     {
